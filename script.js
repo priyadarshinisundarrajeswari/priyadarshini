@@ -14,7 +14,7 @@ desc:"Japanese rice dish with seafood."
 {
 name:"Biryani",
 country:"india",
-image:"sushi.jpeg",
+image:"biriyani.jpeg",
 desc:"Spicy Indian rice dish with meat or vegetables."
 },
 {
@@ -63,5 +63,6 @@ displayFoods(filtered);
 }
 
 });
+
 
 displayFoods(foods);
